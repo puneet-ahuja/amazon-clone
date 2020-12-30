@@ -1,0 +1,35 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    max-height: 400px;
+    min-width: 100px;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+}
+
+.product__price {
+    margin-top: 5px;
+}
+
+.product__rating {
+    display: flex;
+}
+
+.product > img {
+    max-height: 200px;
+    width: 100%;
+    /* Object fit contain is to maintain aspect ratio. */
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+
+.product > button {
+    background-color: #f0c14b;
+    border: 1px solid;
+    /* TODO : Need to understand what this is doing? */
+    /* I dont now how this is working */
+    border-color: #a88734 #9c7e31 #846a29;
+}
