@@ -16,14 +16,14 @@ function Home(){
                     id="1"
                     title="Ikigai: The Japanese secret to a long and happy life"
                     rating={4}
-                    price="500"
+                    price={500}
                     image="https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_UY436_FMwebp_QL65_.jpg"
                 ></Product>
                 <Product
                     id="2"
                     title="Blaupunkt BH21 Bluetooth Over-The -Ear High Bass HD Sound Wireless Headphone with Turbo Bass Equaliser Mode, Super Soft Protein Over-The Ear Cushions, 24 Hours Battery Life"
                     rating={4}
-                    price="2,699"
+                    price={2699}
                     image="https://m.media-amazon.com/images/I/31EU1g65YbL.jpg"
                 ></Product>
 
@@ -34,21 +34,21 @@ function Home(){
                     id="3"
                     title="boAt Bassheads 100 in Ear Wired Earphones with Mic(Black)"
                     rating={4}
-                    price="399"
+                    price={399}
                     image="https://m.media-amazon.com/images/I/31IdiM9ZM8L.jpg"
                 ></Product>
                 <Product
                     id="4"
                     title="Redmi 9 Power (Blazing Blue, 4GB RAM, 64GB Storage)"
                     rating={4}
-                    price="10,999"
+                    price={10999}
                     image="https://m.media-amazon.com/images/I/41+aHRW9EqL.jpg"
                 ></Product>
                 <Product
                     id="5"
                     title="boAt Rockerz 255 Sports in-Ear Bluetooth Neckband Earphone with Mic (Active Black)"
                     rating={4}
-                    price="1,199"
+                    price={1199}
                     image="https://m.media-amazon.com/images/I/41j7VEAjdRL.jpg"
                 ></Product>
 
